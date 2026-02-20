@@ -1,0 +1,33 @@
+# Python environment
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local data & secrets
+.env
+__pycache__/
+web_faiss_index/
+
+# Large PDFs
+pdf/
+*.pdf
+
+# Ignore all FAISS index folders
+*faiss_index/
+faiss_index/
+
+# Ignore log files
+*.log
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+## Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+CLAUDE.md

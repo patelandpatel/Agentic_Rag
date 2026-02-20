@@ -1,0 +1,32 @@
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+langchain-openai
+chromadb
+pypdf
+python-dotenv
+pandas
+pymupdf
+python-docx
+docx2txt
+unstructured
+openpyxl
+jq
+matplotlib
+### Embedding
+sentence-transformers
+langchain_huggingface
+pinecone
+langchain_pinecone
+langchain_experimental
+scikit-learn
+rank_bm25
+# DistanceStrategy
+langchain
+langchain_community
+langchain-core
+langchain-openai
+python-dotenv
+langchain-google-genai
