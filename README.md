@@ -24,7 +24,7 @@ The repository is organized into specific implementation patterns:
 ## 🛠️ Installation
 
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone [https://github.com/patelandpatel/Agentic_Rag.git](https://github.com/patelandpatel/Agentic_Rag.git)
    cd Agentic_Rag
 
