@@ -2,8 +2,6 @@
 
 This repository contains a collection of implementations for **Agentic RAG** systems. Unlike standard RAG pipelines, these agents use reasoning loops to improve retrieval accuracy, rewrite sub-optimal queries, and perform self-reflection on generated answers.
 
-
-
 ## 🚀 Features
 
 * **Query Rewriting:** An agentic layer that optimizes user queries for better vector database retrieval.
