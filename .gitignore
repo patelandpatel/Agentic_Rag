@@ -17,6 +17,9 @@ pdf/
 *.pdf
 
 # Ignore all FAISS index folders
+*.faiss
+*.bin
+*.pkl
 *faiss_index/
 faiss_index/
 
@@ -29,5 +32,20 @@ Thumbs.db
 
 ## Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Images / figures
+*.jpeg
+*.jpg
+*.png
+
+# Datasets / CSV files
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
 
 CLAUDE.md
