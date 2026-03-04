@@ -26,6 +26,18 @@ faiss_index/
 # Ignore log files
 *.log
 
+
+# ChromaDB
+chroma/
+chroma_db/
+.chroma/
+*.chroma
+
+# Common folder names used for ChromaDB storage
+db/
+vector_db/
+vectorstore/
+
 # Ignore OS specific files
 .DS_Store
 Thumbs.db

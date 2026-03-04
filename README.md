@@ -18,7 +18,7 @@ The repository is organized into specific implementation patterns:
 | `Basic_Agentic_Rag/` | The core foundation of the RAG pipeline. |
 | `Agentic_Rag_rewrite_query/` | Implementation focused on the Query Transformation agent. |
 | `ReAct_Agentic_Reag/` | Using the ReAct (Reason + Act) framework for complex multi-step tool use. |
-| `Self_check_answer_ipynb/` | Logic for the self-reflection and grading loop. |
+| `Self_check_answer/` | Logic for the self-reflection and grading loop. |
 | `query_split_Agentic_Rag/` | Agents that split complex questions into smaller, searchable sub-queries. |
 
 ## 🛠️ Installation
